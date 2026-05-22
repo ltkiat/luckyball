@@ -1,0 +1,6 @@
+{
+  "name": "Enjoy Your Lucky Ball",
+  "description": "高规格斯诺克/中八计分器。专为台球抽牌玩法设计，支持3-5人局、自定义牌分规则、分牌动效与完整历史记录。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
